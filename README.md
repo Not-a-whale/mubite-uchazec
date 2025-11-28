@@ -1,4 +1,6 @@
 # MUBITE TESTING CHALLENGE
+- fork the repo
+- once finished share the link to your solution
 - use the following endpoint https://jsonplaceholder.typicode.com/albums
 - create next js app calling the afformenitoned endpoint
 - the app should show a list of albums
