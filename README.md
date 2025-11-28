@@ -5,9 +5,10 @@
 - create next js app calling the afformenitoned endpoint
 - the app should show a list of albums
 - UX is up to you
-- use Tailwing for styling
+- use Tailwind for styling
 - create the app as monorepo distinguishing between frontend and API backend
 - create bridge between server components and separate backend endpoint calling the target REST API, even when in this simple solution it is not nescessary
+- for the backend, use Express framework
 - dockerize the app with Docker and Docker Compose
 - create Docker services for production and local development
 - use Next.js App Router
